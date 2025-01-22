@@ -22,15 +22,12 @@ Place the word.
 
 ### Example
 This code:
-
+```
 1011 1000 0011
-
 1110 0011 0001
-
 0101 1110 0010
-
 1101 0101 0000
-
+```
 Will generate  the following image:
 
 ![image](https://github.com/user-attachments/assets/f2f580f8-4b28-4493-acbe-4e70b91a6add)
