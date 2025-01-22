@@ -1,6 +1,5 @@
 # Subtxt
-Subtxt is a speculative 4-bit programming language used to denote the difference between word and feeling.
-
+Subtxt is a speculative 4-bit programming language used to denote the difference between what someone says and what they feel.
 ## Utilization
 Users write out words using three 4-bit numbers to denote:
 - A word o a scale from yes to no. These words should sxpress what you say.
